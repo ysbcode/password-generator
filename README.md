@@ -32,7 +32,7 @@ THEN the password is either displayed in an alert or written to the page
 
 The following image demonstrates the application functionality:
 
-![passwordgenerator](https://ysbcode.github.io/password-generator/)
+[password generator](https://ysbcode.github.io/password-generator/)
 
 ## Review
 
