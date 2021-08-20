@@ -41,5 +41,5 @@ You are required to submit the following for review:
 * The URL of the deployed application.
 URL: https://ysbcode.github.io/password-generator/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* The URL of the GitHub repository.
 URL: https://github.com/ysbcode/password-generator
